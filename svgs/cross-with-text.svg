@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="27" viewBox="0 0 102 27">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#FFF" font-family="EuclidFlex, Euclid Flex" font-size="15" letter-spacing="2" transform="translate(-3 2)">
+            <tspan x="0" y="18"> MENU</tspan>
+        </text>
+        <g fill-rule="nonzero" stroke="#FFF" stroke-linecap="square" stroke-width="3">
+            <path d="M26.621 24.59L2.38 2.41M26.621 2.41L2.38 24.59"/>
+        </g>
+    </g>
+</svg>
